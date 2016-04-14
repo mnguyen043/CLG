@@ -1,0 +1,90 @@
+/* Background pattern from subtlepatterns.com */
+.img-box{
+	height:300px;
+	width:300px;
+	position: center;
+}
+.list-group{
+	font-size: 20px;
+	width:95% !important;
+	background:url('../Images/green_cup.png') repeat center center !important;
+	
+}
+
+.center{
+text-align:center;
+}
+h3{
+font-weight: bold;
+}
+
+.footer{
+text-align: center;
+}
+
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: none;
+  border: 1px solid #6586A7;
+  background:url('../images/green_cup.png') repeat center center !important;
+}
+
+.btn{
+
+}
+h5{
+	padding-top:20px !important
+}
+.h5{
+	margin-top:none !important;
+}
+html {
+	font-family: Garamond !important;
+}
+body{
+ /* This image will be displayed fullscreen 
+    background:url('Images/old_map.png') repeat center center;*/
+	font-family: Garamond !important;
+	background-color:#6586A7;
+}
+h1{
+	font-weight: bold !important;
+	font-size: 50px;
+}
+
+h2{
+	font-weight: bold !important;
+}
+
+
+.locksmith{
+top: 35px;
+}
+
+.jumbotron h1{
+	font-size: 8vw;
+}
+
+.jumbotron {
+	/*background-color: #FFFFC2 !important;*/
+	background:url('../images/green_cup.png') repeat center center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.clg-padding{
+	padding-top:20px;
+}
+a:link{
+	color: #000000;
+}
+a:visited{
+	color: #000000;
+}
+
+.key-image {
+	padding-left:30%; 
+	padding-right: 30%;
+}
